@@ -1,0 +1,12 @@
+{
+  "name" : "small-parade-alfred-theme",
+  "version" : "1.0.0",
+  "description" : "Minimal visual theme for the Alfred application",
+  "homepage" : "https://smallparade.com/",
+  "author" : "Brandon Durham <brandon@smallparade.com>",
+  "repository" : {
+	  "type": "git",
+	  "url": "git://github.com/brandondurham/small-parade-alfred-theme.git"
+  },
+  "main" : "Small Parade.alfredappearance"
+}
