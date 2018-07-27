@@ -1,3 +1,7 @@
+<center>
+	<img src="screenshot.png" width="700" />
+</center>
+
 # Small Parade Alfred Theme
 Minimal theme for the [Alfred application](https://www.alfredapp.com/). Based on their own Alfred macOS theme.
 
